@@ -13,36 +13,56 @@ body{
     background-size: cover;
     position: relative;
 }
-h1{
+.heady-pic{
     color: aliceblue;
     text-align: center;
-    
     font-size: xxx-large;
-   
+    padding-top: 420px;
 }
 .head-pic{
-    padding-top: 50px;
+    color: aliceblue;
+    text-align: center;
+    font-size: xxx-large;
 }
-p{
+.white-text{
     color: aliceblue;
     text-align: center;
     padding-top: 20px;
     padding-left: 20%;
     padding-right: 20%;
 }
+.white-text2{
+    color: aliceblue;
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
 #donate-box{
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    color: aliceblue;
     padding: 16px 12px;
     position: absolute;
     width: 130px;
     height: 22px;
     left: 870px;
-    top: 308px;
+    top: 670px;
     background: #FF5959;
     border-radius: 5px;
+}
+
+.sec2{
+    text-align: center;
+    font-size: xxx-large;
+    padding-top: 90px;
+}
+.secp2{
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
 }
 
 
