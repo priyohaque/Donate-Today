@@ -65,5 +65,67 @@ body{
     padding-right: 20%;
 }
 
+ .tk100{
+    color: #707070;
+    position: absolute;
+    width: 135px;
+    height: 123px;
+    left: 638px;
+    top: 1190px;
+    text-align: center;
+    background: #FAFAFA;
+    border-radius: 5px;
+    
+ }
+
+ .tk200{
+    box-sizing: border-box;
+    color: #FF5959;
+    position: absolute;
+    width: 136px;
+    height: 123px;
+    left: 795px;
+    top: 1190px;
+    text-align: center;
+    background: #FFEEEE;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+ }
+
+.tk500{
+    color: #707070;
+    position: absolute;
+    width: 135px;
+    height: 123px;
+    left: 953px;
+    top: 1190px;
+    text-align: center;
+    background: #FAFAFA;
+    border-radius: 5px;
+}
+.tk1000{
+    color: #707070;
+    position: absolute;
+    width: 136px;
+    height: 123px;
+    left: 1110px;
+    top: 1190px;
+    text-align: center;
+    background: #FAFAFA;
+    border-radius: 5px;
+}
+
+.tk5000{
+    color: #707070;
+    position: absolute;
+    width: 135px;
+    height: 123px;
+    left: 1268px;
+    top: 1190px;
+    text-align: center;
+    background: #FAFAFA;
+    border-radius: 5px;
+}
+
 
 
